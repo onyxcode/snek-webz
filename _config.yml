@@ -1,25 +1,22 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Snek
 
 # Your name to show in the footer
-author: Some Person
+author: onyxcode
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Invite Now: "invite"
+  Author's home: "https://onyxcode.space"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://cdn.discordapp.com/avatars/690747778455830559/3a1b19107d6d1bbde80c2bf2c86209c3.png?size=128"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -34,10 +31,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "talk@onyxcode.space"
+# facebook: deanattali
+# github: daattali
+# twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -58,7 +55,6 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -71,13 +67,12 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "discord,bot,discord bot,discord soundboard,soundboard,snek,logixie,top.gg,dyno,mee6,carl-bot,discord,discord moderation bot,mods"
 
 # --- Colours / background image --- #
 
@@ -171,7 +166,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Miami"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
