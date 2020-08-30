@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 100,000 users
+title: 100,000 Users
 subtitle: In just a month!?
 tags: [milestones]
 comments: true
