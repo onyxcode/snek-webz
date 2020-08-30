@@ -4,7 +4,7 @@
 title: Snek
 
 # Your name to show in the footer
-author: onyxcode
+author: Logixie
 
 # --- List of links in the navigation bar --- #
 
@@ -78,11 +78,11 @@ keywords: "discord,bot,discord bot,discord soundboard,soundboard,snek,logixie,to
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+page-col: "#000000"
+text-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
