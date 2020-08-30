@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 100,000 Users
 subtitle: In just a month!?
 tags: [milestones]
