@@ -9,6 +9,7 @@ author: Logixie
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Commands: "commands"
   Invite Now: "invite"
   Vote: "vote"
 
