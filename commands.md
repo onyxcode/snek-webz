@@ -34,7 +34,6 @@ comments: true
 ### Information
 - `invite` > Add the bot to your server!
 - `ping` > Shows bot to Discord API latency
-- `hey` > Listen!
 
 ### Moderation
 - `ban` > Bans the specified user from the guild.
