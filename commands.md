@@ -34,6 +34,8 @@ comments: true
 ### Information
 - `invite` > Add the bot to your server!
 - `ping` > Shows bot to Discord API latency
+- `info` > Shows general bot statistics
+- `help` > Shows a helpful embed with information
 
 ### Moderation
 - `ban` > Bans the specified user from the guild.
